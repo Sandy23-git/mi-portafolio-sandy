@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f3e8ff;
+            text-align: center;
+            padding: 30px;
+        }
+
+        h1 {
+            color: purple;
+        }
+
+        h2 {
+            color: #6a0dad;
+        }
+
+        section {
+            background-color: white;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Bienvenidos a mi Portafolio</h1>
+
+    <h2>Sandy María Torres Bacca</h2>
+
+    <p>Estudiante de Ingeniería de Sistemas</p>
+
+    <section>
+        <h2>Sobre mí</h2>
+        <p>
+            Soy estudiante de Ingeniería de Sistemas.
+            Me interesa aprender programación,
+            tecnología y desarrollo web.
+        </p>
+    </section>
+
+    <section>
+        <h2>Mi carrera</h2>
+        <p>
+            Estudio Ingeniería de Sistemas en la
+            Universidad Francisco de Paula Santander,
+            sede Ocaña.
+        </p>
+    </section>
+
+    <section>
+        <h2>Mis intereses</h2>
+        <p>
+            Programación, tecnología y creación
+            de proyectos innovadores.
+        </p>
+    </section>
+
+    <footer>
+        Mi primer sitio publicado con GitHub Pages
+    </footer>
+
+</body>
+</html>
